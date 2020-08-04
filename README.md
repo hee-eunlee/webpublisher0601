@@ -71,10 +71,9 @@ $ clear : 화면 정리
    
 -  mv htlm/ main .txt . /css / my main . txt 
    -> main . txt 파일을 css폴더로 이동 및 파일명 my main.txt
+---
 
 
-1.
-2.  
 
 
 
