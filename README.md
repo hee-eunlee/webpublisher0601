@@ -11,7 +11,7 @@
 
    현재 위치 알려주는 기능 (현재 작업 중 출력)
    
---  Ls crs : List segments
+   -  Ls crs : List segments
 
 -- 
 2. 
