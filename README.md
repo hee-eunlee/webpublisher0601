@@ -7,7 +7,8 @@
 
 ---
 ## shell 기능 용어 정리
--  pwd (print working directory)
+-  pwd (print working directory)  
+
    현재 위치 알려주는 기능 (현재 작업 중 출력)
    
 --  Ls crs : List segments
